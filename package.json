@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "typescript": "^4.6.2"
+  },
+  "name": "cancel-fetch-api-request",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/themashcodee/cancel-fetch-api-request.git",
+  "author": "Mash Codee <codeemash@gmail.com>",
+  "license": "MIT"
+}
